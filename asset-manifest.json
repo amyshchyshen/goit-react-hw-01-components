@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-01-components/static/css/main.6a14b5f5.chunk.css",
-    "main.js": "/goit-react-hw-01-components/static/js/main.b76c221c.chunk.js",
-    "main.js.map": "/goit-react-hw-01-components/static/js/main.b76c221c.chunk.js.map",
+    "main.css": "/goit-react-hw-01-components/static/css/main.2811e73d.chunk.css",
+    "main.js": "/goit-react-hw-01-components/static/js/main.1cbc153f.chunk.js",
+    "main.js.map": "/goit-react-hw-01-components/static/js/main.1cbc153f.chunk.js.map",
     "runtime-main.js": "/goit-react-hw-01-components/static/js/runtime-main.3f5955ef.js",
     "runtime-main.js.map": "/goit-react-hw-01-components/static/js/runtime-main.3f5955ef.js.map",
     "static/js/2.dccd3b2b.chunk.js": "/goit-react-hw-01-components/static/js/2.dccd3b2b.chunk.js",
     "static/js/2.dccd3b2b.chunk.js.map": "/goit-react-hw-01-components/static/js/2.dccd3b2b.chunk.js.map",
     "index.html": "/goit-react-hw-01-components/index.html",
-    "precache-manifest.0d53271e4e4c4204e1b8ec493b0461ef.js": "/goit-react-hw-01-components/precache-manifest.0d53271e4e4c4204e1b8ec493b0461ef.js",
+    "precache-manifest.7ab961bde6efbc90791d9bf459eb06e7.js": "/goit-react-hw-01-components/precache-manifest.7ab961bde6efbc90791d9bf459eb06e7.js",
     "service-worker.js": "/goit-react-hw-01-components/service-worker.js",
-    "static/css/main.6a14b5f5.chunk.css.map": "/goit-react-hw-01-components/static/css/main.6a14b5f5.chunk.css.map"
+    "static/css/main.2811e73d.chunk.css.map": "/goit-react-hw-01-components/static/css/main.2811e73d.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.3f5955ef.js",
     "static/js/2.dccd3b2b.chunk.js",
-    "static/css/main.6a14b5f5.chunk.css",
-    "static/js/main.b76c221c.chunk.js"
+    "static/css/main.2811e73d.chunk.css",
+    "static/js/main.1cbc153f.chunk.js"
   ]
 }
